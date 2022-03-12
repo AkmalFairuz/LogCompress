@@ -1,0 +1,5 @@
+name: LogCompress
+main: AkmalFairuz\LogCompress\LogCompress
+version: 1.0.0
+api: 4.0.0
+author: AkmalFairuz
